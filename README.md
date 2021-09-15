@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It includes the react ui as well as JSON-server for our mock backend
+It includes the react ui as well as JSON-server for a mock backend
 
 ## Usage
 
